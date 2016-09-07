@@ -23,3 +23,5 @@ Play-ready also do some modification from original play! project.
 [1]: http://twitter.github.com/bootstrap/        "Twitter Boostrap"
 [2]: http://www.playframework.org/documentation/1.2.4/home  "Playframework"
 [3]: http://jquery.com/    "jQuery"
+
+Have fun !
